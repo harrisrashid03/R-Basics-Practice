@@ -12,9 +12,6 @@ This repo includes R exercises on:
 - Data Visualization with ggplot2  
 - Data Manipulation with dplyr  
 
-## 📂 Files
-- **`practice_questions.R`** → Contains all 15 R coding exercises with detailed comments.
-
 ## 🛠 Prerequisites  
 Ensure you have R installed. You can use **RStudio** for a better coding experience. Install necessary packages using:  
 
